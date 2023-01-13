@@ -17,7 +17,7 @@ note: provider location != server location. usually, you can choose the server l
 alternative to open-source VPN providers
 
 1. rent a VPS server (DigitalOcean, Linode, Vultr, Lightsail, ...)
-   - https://duckduckgo.com/?q=cheap+vps+provider+for+vpn+server
+   - https://duckduckgo.com/?q=cheap+vps+provider+for+wireguard+vpn+server
 2. install wireguard-server
 3. connect with your wireguard-client
 
