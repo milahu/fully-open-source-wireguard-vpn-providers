@@ -23,7 +23,7 @@ alternative to open-source VPN providers
 
 pro: cheap, choose any jurisdiction, use server for any purpose
 
-con: setup is more work
+con: setup is more work, server location is less flexible
 
 criteria:
 
