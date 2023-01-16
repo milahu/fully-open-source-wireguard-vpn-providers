@@ -60,6 +60,37 @@ no root access
     - https://snthostings.com/seedbox/100mbps-seedbox/
     - https://bigsb.net/plans/
   - https://greycoder.com/best-seedbox/
+  - https://www.seedhost.eu/seedboxes.php NL
+     - SDATA: 4 TB disk, 1 Gbps link, 9 TB traffic/month, 12 eur/month, 120 eur/year
+     - SDATA L: 8 TB disk, 1 Gbps link, 16 TB traffic/month, 19 eur/month, 190 eur/year
+  - https://xirvik.com/seedboxes/plan/29-shared-servers NL/UK/US (?)
+     - Feast: 0.5 TB disk, 2 Gbps link, unlimited traffic, 13 usd/month
+     - Ratio: 1 TB disk, 2 Gbps link, unlimited traffic, 20 usd/month
+  - https://www.feralhosting.com/pricing UK?
+     - Helium: 1 TB disk, 20 Gbps link, unlimited traffic, 10 gbp/month
+     - Neon: 1.5 TB disk, 20 Gbps link, unlimited traffic, 15 gbp/month
+     - Argon: 2 TB disk, 20 Gbps link, unlimited traffic, 20 gbp/month
+
+### limitations
+
+#### limited seeding to public trackers or DHT
+
+- https://www.reddit.com/r/seedboxes/comments/7nwuz4/best_seedbox_for_public_torrents/
+- https://dediseedbox.com/wiki/knowledgebase/do-you-allow-public-trackers/
+   - Q: Do you allow public trackers? - A: We allow downloading from public trackers but uploading/seeding to public trackers is not possible.
+- https://cheapseedboxes.com/seedboxes-that-support-public-trackers/
+   - [Sdedi.com](https://www.sdedi.com/) FR
+   - [useed.fr](https://www.useed.fr/) FR
+   - [feralhosting.com](https://www.feralhosting.com/pricing) UK
+   - [darkseed.fr](https://darkseed.fr/) FR
+   - [ma-seedbox.me](https://ma-seedbox.me/) FR
+   - [seedbox.fr](https://www.seedbox.fr/) FR
+- https://www.reddit.com/r/seedboxes/comments/skfomh/seedboxes_and_public_trackers/
+   - It really depends on the provider. I use ultra.cc and they don’t seem to give a crap as they as their business is based in Singapore with the servers in the Netherlands, they are practically immune to DMCA although they do have a policy that recommends that you only seed public tracker torrents to 2 ratio. It’s only a recommendation though.
+- https://www.reddit.com/r/seedboxes/comments/a7jcvf/public_trackers_allowed/
+- https://xirvik.com/seedboxes/plan/29-shared-servers
+   - Public trackers: OK to download, but seed only to reasonable ratios
+   - Torrents in public trackers don't have a short traffic peak like those in private trackers. **A popular torrent in a public tracker can consume terabytes of traffic** every day for months, starving other torrents and increasing server load (which affects all users), cost, etc. There's also no need to seed forever in public tracker - with the amount of users, torrents stay healthy for years without anyone having to accept the responsibility of keeping them alive.
 
 ### seedbox in spain
 
@@ -135,6 +166,18 @@ should be close to internet exchange points (IXPs) (London, Frankfurt, Amsterdam
 - 🟡 Iran ?
 
 </details>
+
+## traffic
+
+factor = 1/8/1E6\*3600\*24\*30 = 0.324 TB / (MBit/s)
+
+uplink | upload traffic/month
+-- | --
+10 MBit/s | 3 TB
+40 MBit/s | 13 TB
+100 MBit/s | 30 TB
+1 GBit/s | 300 TB
+10 GBit/s | 3000 TB
 
 ## related
 
