@@ -2,7 +2,7 @@
 
 actual "open-source" clients and providers for wireguard VPN
 
-## fully open-source VPN clients
+## fully open-source wireguard VPN clients
 
 provider | client | eur/year | eur/month | provider location
 --|--|--|--|--
@@ -11,6 +11,18 @@ privateinternetaccess.com 3-year plan | | 23.33 | 1.80 |
 [protonvpn.com](https://protonvpn.com/pricing/) | [ProtonVPN/linux-cli](https://github.com/ProtonVPN/linux-cli) | 60 | 5 | Switzerland
 
 note: provider location != server location. usually, you can choose the server location = jurisdiction
+
+## closed-source wireguard VPN clients
+
+the wireguard protocol is open-source, see https://www.wireguard.com/repositories/
+
+... but most providers offer only closed-source wireguard VPN clients
+
+provider | client | eur/year | eur/month | provider location | notes
+--|--|--|--|--|--
+[expressvpn.com](https://www.expressvpn.com/) | [closed-source app](https://www.expressvpn.com/vpn-software/vpn-linux) | ? | ? | British Virgin Islands | [core is open-source](https://github.com/expressvpn/lightway-core)
+[nordvpn.com](https://nordvpn.com/pricing/deal-site/) | [closed-source app](https://nordvpn.com/download/linux/) | 60 | 5 | Panama
+nordvpn.com 2-year plan | | 42 | 3.50 | |
 
 ## private server
 
@@ -48,14 +60,6 @@ no root access
     - https://snthostings.com/seedbox/100mbps-seedbox/
     - https://bigsb.net/plans/
   - https://greycoder.com/best-seedbox/
-
-## closed-source VPN clients
-
-provider | client | eur/year | eur/month | provider location | notes
---|--|--|--|--|--
-[expressvpn.com](https://www.expressvpn.com/) | [closed-source app](https://www.expressvpn.com/vpn-software/vpn-linux) | ? | ? | British Virgin Islands | [core is open-source](https://github.com/expressvpn/lightway-core)
-[nordvpn.com](https://nordvpn.com/pricing/deal-site/) | [closed-source app](https://nordvpn.com/download/linux/) | 60 | 5 | Panama
-nordvpn.com 2-year plan | | 42 | 3.50 | |
 
 ## server location
 
