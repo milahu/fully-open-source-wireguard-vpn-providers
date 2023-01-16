@@ -49,7 +49,7 @@ alternative to private server
 
 no root access
 
-traffic is the main bottleneck
+traffic is the main bottleneck, see [#traffic](#traffic)
 
 - https://duckduckgo.com/?q=vps+bittorrent+seedbox+providers+2022
   - https://www.seedboxexpert.com/seedbox-guide/
