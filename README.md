@@ -2,7 +2,7 @@
 
 actual "open-source" clients and providers for wireguard VPN
 
-## fully open-source
+## fully open-source VPN clients
 
 provider | client | eur/year | eur/month | provider location
 --|--|--|--|--
@@ -49,7 +49,7 @@ no root access
     - https://bigsb.net/plans/
   - https://greycoder.com/best-seedbox/
 
-## closed-source
+## closed-source VPN clients
 
 provider | client | eur/year | eur/month | provider location | notes
 --|--|--|--|--|--
@@ -57,6 +57,19 @@ provider | client | eur/year | eur/month | provider location | notes
 [nordvpn.com](https://nordvpn.com/pricing/deal-site/) | [closed-source app](https://nordvpn.com/download/linux/) | 60 | 5 | Panama
 nordvpn.com 2-year plan | | 42 | 3.50 | |
 
+## server location
+
+should be near your location = low latency = low ping
+
+- 🟢 Downloading allowed (for personal use): Poland, Spain, Switzerland
+- 🟡 Download Fines (not enforced): Argentina, Australia, Brazil, Canada, China, Colombia, Czech Republic, Denmark, Egypt, Greece, Iran, Israel, Italy, Latvia, Mexico, The Netherlands, Philippines, Portugal, Romania, Russia Singapore, Slovakia, Slovenia, South Africa, Uruguay
+- 🔴 Download fines (enforced): Belgium, Finland, France, Germany, India, Japan, Malaysia, New Zealand, United Arab Emirates, United Kingdom, United States
+
+based on
+
+- https://vpnoverview.com/privacy/downloading/download-fines/
+- https://www.vpnmentor.com/blog/torrents-illegal-update-country/
+- https://vpnpro.com/blog/is-torrenting-illegal/
 
 ## related
 
