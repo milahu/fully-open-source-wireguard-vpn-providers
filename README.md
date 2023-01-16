@@ -61,6 +61,12 @@ no root access
     - https://bigsb.net/plans/
   - https://greycoder.com/best-seedbox/
 
+### seedbox in spain
+
+- https://www.reddit.com/r/seedboxes/comments/32xeve/seedbox_in_spain/
+- http://www.seedbox-spain.com/
+- 
+
 ## server location
 
 should be near your location = low latency = low ping
@@ -77,13 +83,27 @@ based on
 - https://www.vpnmentor.com/blog/torrents-illegal-update-country/
 - https://vpnpro.com/blog/is-torrenting-illegal/
 
+### connectivity
+
+should be close to internet exchange points (IXPs) (London, Frankfurt, Amsterdam, Moscow, Paris, Seattle, Los Angeles, Sao Paulo, ...)
+
+- https://www.itgsnews.com/mapping-internet-maps/
+   - https://global-internet-map-2012.telegeography.com/
+- https://www.telecomramblings.com/network-maps/europe/
+   - https://www.colt.net/global-network/coverage-maps/
+   - https://www.gtt.net/us-en/about-us/our-network
+- https://www.internetexchangemap.com/
+- https://www.datacentermap.com/ixps.html
+- https://en.wikipedia.org/wiki/List_of_Internet_exchange_points_by_size
+
 ### energy cost
 
 - https://duckduckgo.com/?q=electricity+prices+by+country
 - https://advisor.visualcapitalist.com/global-energy-prices-by-country/
 - https://www.globalpetrolprices.com/electricity_prices/
 
-Electricity prices for business, June 2022 (kWh, Euro)
+<details>
+<summary>Electricity prices for business, June 2022 (kWh, Euro)</summary>
 
 - 🟡 Argentina 0.024
 - 🟡 Egypt 0.039
@@ -113,6 +133,8 @@ Electricity prices for business, June 2022 (kWh, Euro)
 - 🟡 Netherlands 0.360
 - 🟡 Italy 0.390
 - 🟡 Iran ?
+
+</details>
 
 ## related
 
