@@ -75,6 +75,43 @@ based on
 - https://www.vpnmentor.com/blog/torrents-illegal-update-country/
 - https://vpnpro.com/blog/is-torrenting-illegal/
 
+### energy cost
+
+- https://duckduckgo.com/?q=electricity+prices+by+country
+- https://advisor.visualcapitalist.com/global-energy-prices-by-country/
+- https://www.globalpetrolprices.com/electricity_prices/
+
+Electricity prices for business, June 2022 (kWh, Euro)
+
+- 🟡 Argentina 0.024
+- 🟡 Egypt 0.039
+- 🟡 South Africa 0.073
+- 🟡 Canada 0.087
+- 🟡 China 0.087
+- 🟡 Russia 0.092
+- 🟡 Uruguay 0.106
+- 🟡 Greece 0.117
+- 🟡 Colombia 0.123
+- 🟡 Brazil 0.132
+- 🟡 Philippines 0.132
+- 🟡 Slovenia 0.132
+- 🟢 Spain 0.140
+- 🟡 Israel 0.154
+- 🟢 Switzerland 0.164
+- 🟡 Slovakia 0.170
+- 🟡 Mexico 0.173
+- 🟡 Romania 0.203
+- 🟡 Singapore 0.217
+- 🟡 Australia 0.223
+- 🟢 Poland 0.251
+- 🟡 Latvia 0.253
+- 🟡 Portugal 0.254
+- 🟡 Czech Republic 0.267
+- 🟡 Denmark 0.322
+- 🟡 Netherlands 0.360
+- 🟡 Italy 0.390
+- 🟡 Iran ?
+
 ## related
 
 - https://fosspost.org/linux-vpn-clients-providers/
