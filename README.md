@@ -29,7 +29,7 @@ nordvpn.com 2-year plan | | 42 | 3.50 | |
 alternative to open-source VPN providers
 
 1. rent a VPS server (DigitalOcean, Linode, Vultr, Lightsail, ...)
-  - https://duckduckgo.com/?q=cheap+vps+provider+for+wireguard+vpn+server
+   - https://duckduckgo.com/?q=cheap+vps+provider+for+wireguard+vpn+server
 2. install wireguard-server
 3. connect with your wireguard-client
 
