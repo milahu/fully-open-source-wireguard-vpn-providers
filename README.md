@@ -65,6 +65,8 @@ no root access
 
 should be near your location = low latency = low ping
 
+### copyright laws
+
 - 🟢 Downloading allowed (for personal use): Poland, Spain, Switzerland
 - 🟡 Download Fines (not enforced): Argentina, Australia, Brazil, Canada, China, Colombia, Czech Republic, Denmark, Egypt, Greece, Iran, Israel, Italy, Latvia, Mexico, The Netherlands, Philippines, Portugal, Romania, Russia Singapore, Slovakia, Slovenia, South Africa, Uruguay
 - 🔴 Download fines (enforced): Belgium, Finland, France, Germany, India, Japan, Malaysia, New Zealand, United Arab Emirates, United Kingdom, United States
