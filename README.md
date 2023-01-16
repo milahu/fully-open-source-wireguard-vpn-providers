@@ -56,6 +56,9 @@ traffic is the main bottleneck, see [#traffic](#traffic)
   - https://seedboxgui.de/seedbox/
     - https://snthostings.com/seedbox/100mbps-seedbox/ office location: India
   - https://greycoder.com/best-seedbox/
+- https://www.seedhost.eu/seedboxes.php NL
+  - SDATA: 4 TB disk, 9 TB traffic/month, 12 eur/month, 120 eur/year, 1 Gbps link
+  - SDATA L: 8 TB disk, 16 TB traffic/month, 19 eur/month, 190 eur/year, 1 Gbps link
 - https://seedit4.me/ NL
    - Sidekick Pro: 1.5 TB disk, 5 TB traffic/month (public trackers allowed), 12 eur/month, 1 Gbps link
    - Hero Pro: 2 TB disk, 9 TB traffic/month (public trackers allowed), 18 eur/month, 1 Gbps link
@@ -63,9 +66,6 @@ traffic is the main bottleneck, see [#traffic](#traffic)
    - Avenger Pro: 5 TB disk, 25 TB traffic/month (public trackers allowed), 40 eur/month, 1 Gbps link
 - https://ultra.cc/#plan-pricing NL
   - Eagle: 3 TB disk, 6 TB traffic/month, 12 eur/month, shared 50 Gbps link
-- https://www.seedhost.eu/seedboxes.php NL
-  - SDATA: 4 TB disk, 9 TB traffic/month, 12 eur/month, 120 eur/year, 1 Gbps link
-  - SDATA L: 8 TB disk, 16 TB traffic/month, 19 eur/month, 190 eur/year, 1 Gbps link
 - https://dediseedbox.com/vps.html NL
    - 0.750 TB disk, 10 TB traffic/month, 15 usd/month, 10 Gbps link
    - 1 TB disk, 14 TB traffic/month, 20 usd/month, 10 Gbps link
