@@ -49,27 +49,51 @@ alternative to private server
 
 no root access
 
+traffic is the main bottleneck
+
 - https://duckduckgo.com/?q=vps+bittorrent+seedbox+providers+2022
   - https://www.seedboxexpert.com/seedbox-guide/
-    - https://ultra.cc/#plan-pricing NL
-    - https://www.rapidseedbox.com/#pricing
   - https://seedboxgui.de/seedbox/
-    - https://dediseedbox.com/dedicated.html NL
-    - https://seedit4.me/ NL
-    - https://evoseedbox.com/
-    - https://snthostings.com/seedbox/100mbps-seedbox/
-    - https://bigsb.net/plans/
+    - https://snthostings.com/seedbox/100mbps-seedbox/ office location: India
   - https://greycoder.com/best-seedbox/
-  - https://www.seedhost.eu/seedboxes.php NL
-     - SDATA: 4 TB disk, 1 Gbps link, 9 TB traffic/month, 12 eur/month, 120 eur/year
-     - SDATA L: 8 TB disk, 1 Gbps link, 16 TB traffic/month, 19 eur/month, 190 eur/year
-  - https://xirvik.com/seedboxes/plan/29-shared-servers NL/UK/US (?)
-     - Feast: 0.5 TB disk, 2 Gbps link, unlimited traffic, 13 usd/month
-     - Ratio: 1 TB disk, 2 Gbps link, unlimited traffic, 20 usd/month
-  - https://www.feralhosting.com/pricing UK?
-     - Helium: 1 TB disk, 20 Gbps link, unlimited traffic, 10 gbp/month
-     - Neon: 1.5 TB disk, 20 Gbps link, unlimited traffic, 15 gbp/month
-     - Argon: 2 TB disk, 20 Gbps link, unlimited traffic, 20 gbp/month
+- https://seedit4.me/ NL
+   - Sidekick Pro: 1.5 TB disk, 5 TB traffic/month (public trackers allowed), 12 eur/month, 1 Gbps link
+   - Hero Pro: 2 TB disk, 9 TB traffic/month (public trackers allowed), 18 eur/month, 1 Gbps link
+   - Super Hero Pro: 3 TB disk, 15 TB traffic/month (public trackers allowed), 24 eur/month, 1 Gbps link
+   - Avenger Pro: 5 TB disk, 25 TB traffic/month (public trackers allowed), 40 eur/month, 1 Gbps link
+- https://ultra.cc/#plan-pricing NL
+  - Eagle: 3 TB disk, 6 TB traffic/month, 12 eur/month, shared 50 Gbps link
+- https://www.seedhost.eu/seedboxes.php NL
+  - SDATA: 4 TB disk, 9 TB traffic/month, 12 eur/month, 120 eur/year, 1 Gbps link
+  - SDATA L: 8 TB disk, 16 TB traffic/month, 19 eur/month, 190 eur/year, 1 Gbps link
+- https://dediseedbox.com/vps.html NL
+   - 0.750 TB disk, 10 TB traffic/month, 15 usd/month, 10 Gbps link
+   - 1 TB disk, 14 TB traffic/month, 20 usd/month, 10 Gbps link
+   - 1.5 TB disk, 18 TB traffic/month, 25 usd/month, 10 Gbps link
+- https://evoseedbox.com/
+   - Speed: 0.300 TB disk, 4 TB traffic/month, 12 eur/month, 0.1 Gbps link
+   - Blaze: 0.600 TB disk, 7 TB traffic/month, 18 eur/month, 0.1 Gbps link
+
+### unlimited traffic
+
+"unlimited" ... but these servers have other limits
+
+<details>
+
+- https://www.rapidseedbox.com/#pricing NL/FR
+   - Fast: 1.2 TB disk, unlimited traffic, 18 eur/month, 1 Gbps link
+- https://xirvik.com/seedboxes/plan/29-shared-servers NL/UK/US (?)
+  - Feast: 0.5 TB disk, unlimited traffic, 13 usd/month, 2 Gbps link
+  - Ratio: 1 TB disk, unlimited traffic, 20 usd/month, 2 Gbps link
+- https://www.feralhosting.com/pricing UK?
+  - Helium: 1 TB disk, unlimited traffic, 10 gbp/month, 20 Gbps link
+  - Neon: 1.5 TB disk, unlimited traffic, 15 gbp/month, 20 Gbps link
+  - Argon: 2 TB disk, unlimited traffic, 20 gbp/month, 20 Gbps link
+- https://bigsb.net/plans/
+   - Baby Box 130: 0.130 TB disk, unlimited traffic, 12 eur/month, 0.1 Gbps link
+   - Baby Box 260: 0.260 TB disk, unlimited traffic, 18 eur/month, 0.1 Gbps link
+
+</details>
 
 ### limitations
 
