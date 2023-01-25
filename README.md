@@ -66,6 +66,32 @@ provider | client | eur/year | eur/month | provider location | notes
 [cyberghostvpn.com](https://www.cyberghostvpn.com/) | [cyberghost](https://www.cyberghostvpn.com/en_US/apps/linux-vpn) | | | Romania
 ... 2-year plan | | 26.40 | 2.20 |
 
+### expressvpn
+
+https://www.reddit.com/r/Express_VPN/comments/o8c50l/expressvpn_looks_like_a_privacy_nightmare/
+
+<blockquote>
+
+ExpressVPN looks like a privacy nightmare
+
+Correct me if I am anywhere wrong in my post as I am not so familiar with ExpressVPN's features, but I decided to give it a go on linux and android since their proposal that you can watch streaming services while its on, yet it provides some kind of privacy against the ISP sounded fair.
+
+However I figured that **they encourage you to install their own client on all platforms in order to use their service.** There is nothing wrong with that, many providers I have tried earlier have their own clients and in many cases they often provide more features than a raw openvpn config for example. But I was really surprised to acknowledge that **their clients are not open-source** and **they even DMCAd many redistributed or reverse engineering projects of their clients**. Also, I couldn't find a documentation for their API so I can get my openvpn keys programmatically without using their pre-compiled proprietary binaries.
+
+And what surprised me even more that when I put up their APK to an AV check it turned out that their mobile app doesn't even have java bindings I could see in the results for their API directly, but it assumingly uses a closed source libxvclient.so file and its bindings which makes me think **they wanted to do every measure just so they can prevent anyone from reverse engineering their client code**. I didn't go any further by reverse engineering the software as this would break the law.
+
+Also, when Googling for results regarding github projects I realized **they apply way too many SEO tricks to display absolutely unrelevant articles** from them that has nothing to do with my queries **to hide actually useful results**. Really annoying.
+
+I wonder **why is this necessary** for them? If I already pay so much for their service why can they not provide an API that already exists for those who want to tinker/adjust the sw in ways they want to?
+
+I personally dislike **proprietary software** not only because **you have no idea what it does under the hood** and how secure it is, but because **it provides absolutely no way to build up your own networking config**. It's probably easy for those who just want to use express for tunneling their whole internet traffic, but **for the power user who wants to set up their own interfaces, routes etc it's a nightmare**.
+
+Also what's the purpose why the client is closed source? Many other providers are very successful with their OSS clients. I can only imagine that they don't want people to automate the vpn connection as then content providers would be able to simply grab all expressvpn ips relatively quick and then blacklist them from the service. But that's very unlikely.
+
+</blockquote>
+
+https://github.com/Numenorean/ExpressVPN-Auth - looks like openVPN client, no wireguard VPN client
+
 ## private server
 
 alternative to open-source VPN providers
