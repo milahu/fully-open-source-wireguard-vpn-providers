@@ -248,3 +248,4 @@ uplink | upload traffic/month
 
 - https://fosspost.org/linux-vpn-clients-providers/
 - https://whatismyipaddress.com/best-vpns-torrenting
+- https://www.tomsguide.com/best-picks/torrenting-vpn-torrents - deals
