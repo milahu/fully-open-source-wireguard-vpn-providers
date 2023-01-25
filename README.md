@@ -14,7 +14,7 @@ note: provider location != server location. usually, you can choose the server l
 
 ### PIA is slow
 
-at constant load, speed is limited to 10 Mbps = 3 TB/month
+bandwidth throttling: at constant load, speed is limited to 10 Mbps = 3 TB/month
 
 <details>
 
@@ -62,6 +62,8 @@ provider | client | eur/year | eur/month | provider location | notes
 [nordvpn.com](https://nordvpn.com/pricing/deal-site/) | [nordvpn](https://nordvpn.com/download/linux/) | 60 | 5 | Panama
 ... 2-year plan | | 42 | 3.50 | |
 [surfshark.com](https://order.surfshark.com/) | [surfshark](https://surfshark.com/download/linux) | 48 | 4 | Netherlands
+[cyberghostvpn.com](https://www.cyberghostvpn.com/) | [cyberghost](https://www.cyberghostvpn.com/en_US/apps/linux-vpn) | | | Romania
+... 2-year plan | | 26.40 | 2.20 |
 
 ## private server
 
