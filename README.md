@@ -4,13 +4,51 @@ actual "open-source" clients and providers for wireguard VPN
 
 ## fully open-source wireguard VPN clients
 
-provider | client | eur/year | eur/month | provider location
---|--|--|--|--
-[privateinternetaccess.com](https://www.privateinternetaccess.com/buy-vpn-online) | [pia-foss/manual-connections](https://github.com/pia-foss/manual-connections) | 37.19 | 3.10 | USA
-privateinternetaccess.com 3-year plan | | 23.33 | 1.80 |
-[protonvpn.com](https://protonvpn.com/pricing/) | [ProtonVPN/linux-cli](https://github.com/ProtonVPN/linux-cli) | 60 | 5 | Switzerland
+provider | client | eur/year | eur/month | provider location | notes
+--|--|--|--|--|--
+[privateinternetaccess.com](https://www.privateinternetaccess.com/buy-vpn-online) | [pia-foss](https://github.com/pia-foss/manual-connections) | 37.19 | 3.10 | USA | slow
+... 3-year plan | | 23.33 | 1.80 |
+[protonvpn.com](https://protonvpn.com/pricing/) | [ProtonVPN](https://github.com/ProtonVPN/linux-cli) | 60 | 5 | Switzerland |
 
 note: provider location != server location. usually, you can choose the server location = jurisdiction
+
+### PIA is slow
+
+at constant load, speed is limited to 10 Mbps = 3 TB/month
+
+<details>
+
+https://www.reddit.com/r/PrivateInternetAccess/comments/jq1gpp/pia_vpn_200_megabit_speed_cap/
+
+> The issue as I have encountered it is software client running a torrent seed box running through a PIA forwarded port. Pings to PIA server 30-45 and things like fast.com give full speed but as soon **as you try to actually use anything other than a speedtest, specifically over a forwarded port the speed seems to take a dive.**
+
+https://thebestvpn.com/reviews/private-internet-access/ - user reviews for Private Internet Access
+
+> Started Out Fine, Now Terrible
+>
+> I just switched VPN providers after having PIA for ~6 years. It started off great, now it suffers from speeds so slow it's practically unusable. (YMMV, but in my experience, I'm sick of dealing with it and am finished with them.) My usual 50mbps DL speed would sometimes plummet to under 1 mbps! I tried to ignore it for awhile but just cannot anymore. PIA just sucks.
+
+> Terrible product and support
+>
+> I tested PIA and it worked well at first. I then decided to buy a 2-year subscription. At 1st the speeds were okay and I was satisfied however **after about 4-5 months I noticed that the latency's kept getting worse and worse.** It got so bad that PIA was practically unusable. I contacted support via their chat option on three occasions. each occasion they disconnected and I was left starting completely over. They had me change every setting possible and nothing changed. I was left with a product that doesn't work as advertised and of course I already paid for 2 years.Do not BUY! I believe they restrict your speeds once you have already purchased. STAY AWAY!
+
+> With PIA 5 yrs - only problems the last 2 yrs
+>
+> The first couple of PIA years were ok - minor issues here and there. The last 2 yrs my connection began dropping randomly and/or slowed right down. I was told to try all the ports under UDP and TCP until I found a port that didn't drop out, same to find a port with some speed. Then I got a copyright letter from my isp 1.5 yrs ago which prompted me to engage the Kill Switch full time + Mace. Didn't help because I got another copyright from my isp a week ago - although my personal ip address is not showing, my service provider info was exposed somehow. I tested my system with PIA running - kept saying NO Leaks. I beg to differ!
+
+> PIA Sucked (In My Experience)
+>
+> If you are shopping for a VPN I am here to tell you NOT to buy a product called PIA (Private Internet Access).
+>
+> The reasons are short and sweet:
+>
+> (1) it will degrade your internet speed just about to uselessness (mine went from 150 Mbps to ~30 Mbps) and
+>
+> (2) if you try to cancel they will not refund your subscription fee.
+
+> With PIA my download speed was 49 with ExpressVPN my download speed was 111 and with no VPN connected it was 171.
+
+</details>
 
 ## closed-source wireguard VPN clients
 
@@ -20,8 +58,8 @@ the wireguard protocol is open-source, see https://www.wireguard.com/repositorie
 
 provider | client | eur/year | eur/month | provider location | notes
 --|--|--|--|--|--
-[expressvpn.com](https://www.expressvpn.com/) | [closed-source app](https://www.expressvpn.com/vpn-software/vpn-linux) | ? | ? | British Virgin Islands | [core is open-source](https://github.com/expressvpn/lightway-core)
-[nordvpn.com](https://nordvpn.com/pricing/deal-site/) | [closed-source app](https://nordvpn.com/download/linux/) | 60 | 5 | Panama
+[expressvpn.com](https://www.expressvpn.com/) | [expressvpn](https://www.expressvpn.com/vpn-software/vpn-linux) | ? | ? | British Virgin Islands | [open core](https://github.com/expressvpn/lightway-core)
+[nordvpn.com](https://nordvpn.com/pricing/deal-site/) | [nordvpn](https://nordvpn.com/download/linux/) | 60 | 5 | Panama
 nordvpn.com 2-year plan | | 42 | 3.50 | |
 
 ## private server
@@ -206,3 +244,4 @@ uplink | upload traffic/month
 ## related
 
 - https://fosspost.org/linux-vpn-clients-providers/
+- https://whatismyipaddress.com/best-vpns-torrenting
