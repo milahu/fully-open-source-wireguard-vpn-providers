@@ -9,6 +9,7 @@ provider | client | eur/year | eur/month | provider location | notes
 [privateinternetaccess.com](https://www.privateinternetaccess.com/buy-vpn-online) | [pia-foss](https://github.com/pia-foss/manual-connections) | 37.19 | 3.10 | USA | slow
 ... 3-year plan | | 23.33 | 1.80 |
 [protonvpn.com](https://protonvpn.com/pricing/) | [ProtonVPN](https://github.com/ProtonVPN/linux-cli) | 60 | 5 | Switzerland |
+... unlimited | | 96 | 8 |
 
 note: provider location != server location. usually, you can choose the server location = jurisdiction
 
