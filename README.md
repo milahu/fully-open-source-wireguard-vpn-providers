@@ -14,7 +14,7 @@ note: provider location != server location. usually, you can choose the server l
 
 ### PIA is slow
 
-bandwidth throttling: at constant load, speed is limited to 10 Mbps = 3 TB/month
+longterm performance: at constant load, speed is limited to 10 Mbps = 3 TB/month (bandwidth throttling)
 
 <details>
 
