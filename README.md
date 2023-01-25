@@ -60,7 +60,8 @@ provider | client | eur/year | eur/month | provider location | notes
 --|--|--|--|--|--
 [expressvpn.com](https://www.expressvpn.com/) | [expressvpn](https://www.expressvpn.com/vpn-software/vpn-linux) | 94 | 8 | British Virgin Islands | [open core](https://github.com/expressvpn/lightway-core)
 [nordvpn.com](https://nordvpn.com/pricing/deal-site/) | [nordvpn](https://nordvpn.com/download/linux/) | 60 | 5 | Panama
-nordvpn.com 2-year plan | | 42 | 3.50 | |
+... 2-year plan | | 42 | 3.50 | |
+[surfshark.com](https://order.surfshark.com/) | [surfshark](https://surfshark.com/download/linux) | 48 | 4 | Netherlands
 
 ## private server
 
