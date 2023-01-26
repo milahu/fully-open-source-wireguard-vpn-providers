@@ -4,7 +4,7 @@ actual "open-source" clients and providers for wireguard VPN
 
 ## fully open-source wireguard VPN clients
 
-provider | client | eur/year | eur/month | provider location | owner | uplink
+provider | client | eur/year | eur/month | provider location | owner | speed
 --|--|--|--|--|--|--
 [privateinternetaccess.com](https://www.privateinternetaccess.com/buy-vpn-online) | [pia-foss](https://github.com/pia-foss/manual-connections) | 37.19 | 3.10 | USA | Kape | 8
 ... 3-year plan | | 23.33 | 1.80
