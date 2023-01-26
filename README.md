@@ -4,14 +4,23 @@ actual "open-source" clients and providers for wireguard VPN
 
 ## fully open-source wireguard VPN clients
 
-provider | client | eur/year | eur/month | provider location | notes
---|--|--|--|--|--
-[privateinternetaccess.com](https://www.privateinternetaccess.com/buy-vpn-online) | [pia-foss](https://github.com/pia-foss/manual-connections) | 37.19 | 3.10 | USA | slow
-... 3-year plan | | 23.33 | 1.80 |
+provider | client | eur/year | eur/month | provider location | owner | notes
+--|--|--|--|--|--|--
+[privateinternetaccess.com](https://www.privateinternetaccess.com/buy-vpn-online) | [pia-foss](https://github.com/pia-foss/manual-connections) | 37.19 | 3.10 | USA | Kape | slow
+... 3-year plan | | 23.33 | 1.80
 [protonvpn.com](https://protonvpn.com/pricing/) | [ProtonVPN](https://github.com/ProtonVPN/linux-cli) | 60 | 5 | Switzerland |
 ... unlimited | | 96 | 8 |
 
 note: provider location != server location. usually, you can choose the server location = jurisdiction
+
+### multi-provider VPN clients
+
+#### Vopono
+
+https://github.com/jamesmcm/vopono
+
+- wireguard providers: Mullvad, AzireVPN, iVPN, PrivateInternetAccess, MozillaVPN
+- https://github.com/jamesmcm/vopono/blob/master/vopono_core/src/config/providers
 
 ### PIA is slow
 
@@ -59,13 +68,13 @@ the wireguard protocol is open-source, see https://www.wireguard.com/repositorie
 
 open-source openVPN clients are easier to find, but wireguard has better performance (multithreading, less overhead)
 
-provider | client | eur/year | eur/month | provider location | notes
---|--|--|--|--|--
-[expressvpn.com](https://www.expressvpn.com/) | [expressvpn](https://www.expressvpn.com/vpn-software/vpn-linux) | 94 | 8 | British Virgin Islands | [open core](https://github.com/expressvpn/lightway-core)
+provider | client | eur/year | eur/month | provider location | owner | notes
+--|--|--|--|--|--|--
+[expressvpn.com](https://www.expressvpn.com/) | [expressvpn](https://www.expressvpn.com/vpn-software/vpn-linux) | 94 | 8 | British Virgin Islands | Kape | [open core](https://github.com/expressvpn/lightway-core)
 [nordvpn.com](https://nordvpn.com/pricing/deal-site/) | [nordvpn](https://nordvpn.com/download/linux/) | 60 | 5 | Panama
 ... 2-year plan | | 42 | 3.50 | |
 [surfshark.com](https://order.surfshark.com/) | [surfshark](https://surfshark.com/download/linux) | 48 | 4 | Netherlands
-[cyberghostvpn.com](https://www.cyberghostvpn.com/) | [cyberghost](https://www.cyberghostvpn.com/en_US/apps/linux-vpn) | | | Romania
+[cyberghostvpn.com](https://www.cyberghostvpn.com/) | [cyberghost](https://www.cyberghostvpn.com/en_US/apps/linux-vpn) | | | Romania | Kape
 ... 2-year plan | | 26.40 | 2.20 |
 
 ### expressvpn
@@ -93,6 +102,21 @@ Also what's the purpose why the client is closed source? Many other providers ar
 </blockquote>
 
 https://github.com/Numenorean/ExpressVPN-Auth - looks like openVPN client, no wireguard VPN client
+
+## Kape Technologies
+
+https://restoreprivacy.com/kape-technologies-owns-expressvpn-cyberghost-pia-zenmate-vpn-review-sites/
+
+- connections to Israel military (Israel intelligence agency, Unit 8200)
+   - responsible for clandestine operation, collecting signal intelligence (SIGINT) and code decryption, counterintelligence, cyberwarfare, military intelligence, and surveillance ... Unit 8200 is probably the foremost technical intelligence agency in the world and stands on a par with the NSA in everything except scale https://en.wikipedia.org/wiki/Unit_8200
+- owner of VPN providers
+   - CyberGhost VPN
+   - Zenmate VPN
+   - Private Internet Access
+   - ExpressVPN
+- owner of VPN "review" websites, where they promote their own services, and downrank competing services, see also https://restoreprivacy.com/vpn-review-websites-owned-by-vpns/
+   - vpnmentor.com
+   - wizcase.com
 
 ## private server
 
