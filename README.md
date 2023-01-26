@@ -69,9 +69,9 @@ the wireguard protocol is open-source, see https://www.wireguard.com/repositorie
 
 open-source openVPN clients are easier to find, but wireguard has better performance (multithreading, less overhead)
 
-provider | client | eur/year | eur/month | provider location | owner | notes
+provider | client | eur/year | eur/month | provider location | owner | speed
 --|--|--|--|--|--|--
-[expressvpn.com](https://www.expressvpn.com/) | [expressvpn](https://www.expressvpn.com/vpn-software/vpn-linux) | 94 | 8 | British Virgin Islands | Kape | [open core](https://github.com/expressvpn/lightway-core)
+[expressvpn.com](https://www.expressvpn.com/) | [expressvpn](https://www.expressvpn.com/vpn-software/vpn-linux) + [open core](https://github.com/expressvpn/lightway-core) | 94 | 8 | British Virgin Islands | Kape
 [nordvpn.com](https://nordvpn.com/pricing/deal-site/) | [nordvpn](https://nordvpn.com/download/linux/) | 60 | 5 | Panama
 ... 2-year plan | | 42 | 3.50 | |
 [surfshark.com](https://order.surfshark.com/) | [surfshark](https://surfshark.com/download/linux) | 48 | 4 | Netherlands
