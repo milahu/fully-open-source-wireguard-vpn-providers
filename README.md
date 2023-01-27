@@ -288,16 +288,16 @@ should be close to internet exchange points (IXPs) (London, Frankfurt, Amsterdam
 
 ## traffic
 
-factor = 1/8/1E6\*3600\*24\*30 = 0.324 TB / (MBit/s)
+factor = 1/8/1E6\*3600\*24\*30 = 0.324 TB/Mbps
 
-uplink | upload traffic/month
+uplink | upload traffic
 -- | --
-8 MBit/s | 2.5 TB
-10 MBit/s | 3 TB
-40 MBit/s | 13 TB
-100 MBit/s | 30 TB
-1 GBit/s | 300 TB
-10 GBit/s | 3000 TB
+8 Mbps | 2.5 TB/month
+10 Mbps | 3 TB/month
+40 Mbps | 13 TB/month
+100 Mbps | 30 TB/month
+1 Gbps | 300 TB/month
+10 Gbps | 3000 TB/month
 
 ## related
 
