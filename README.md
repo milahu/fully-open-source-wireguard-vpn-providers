@@ -4,9 +4,9 @@ actual "open-source" clients and providers for wireguard VPN
 
 ## fully open-source wireguard VPN clients
 
-provider | client | eur/year | eur/month | provider location | owner | speed
+provider | client | eur/year | eur/month | provider location | owner | TB/month
 --|--|--|--|--|--|--
-[privateinternetaccess.com](https://www.privateinternetaccess.com/buy-vpn-online) | [pia-foss](https://github.com/pia-foss/manual-connections) | 37.19 | 3.10 | USA | Kape | 8
+[privateinternetaccess.com](https://www.privateinternetaccess.com/buy-vpn-online) | [pia-foss](https://github.com/pia-foss/manual-connections) | 37.19 | 3.10 | USA | Kape | 2.5
 ... 3-year plan | | 23.33 | 1.80
 [protonvpn.com](https://protonvpn.com/pricing/) | [ProtonVPN](https://github.com/ProtonVPN/linux-cli) | 60 | 5 | Switzerland |
 ... unlimited | | 96 | 8 |
@@ -69,7 +69,7 @@ the wireguard protocol is open-source, see https://www.wireguard.com/repositorie
 
 open-source openVPN clients are easier to find, but wireguard has better performance (multithreading, less overhead)
 
-provider | client | eur/year | eur/month | provider location | owner | speed
+provider | client | eur/year | eur/month | provider location | owner | TB/month
 --|--|--|--|--|--|--
 [expressvpn.com](https://www.expressvpn.com/) | [expressvpn](https://www.expressvpn.com/vpn-software/vpn-linux) + [open core](https://github.com/expressvpn/lightway-core) | 94 | 8 | British Virgin Islands | Kape
 [nordvpn.com](https://nordvpn.com/pricing/deal-site/) | [nordvpn](https://nordvpn.com/download/linux/) | 60 | 5 | Panama
@@ -292,6 +292,7 @@ factor = 1/8/1E6\*3600\*24\*30 = 0.324 TB / (MBit/s)
 
 uplink | upload traffic/month
 -- | --
+8 MBit/s | 2.5 TB
 10 MBit/s | 3 TB
 40 MBit/s | 13 TB
 100 MBit/s | 30 TB
