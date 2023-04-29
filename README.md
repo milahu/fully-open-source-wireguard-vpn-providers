@@ -13,6 +13,7 @@ provider | client | eur/year | eur/month | provider location | owner | TB/month
 [protonvpn.com](https://protonvpn.com/pricing/) | [ProtonVPN](https://github.com/ProtonVPN/linux-cli) | 60 | 5 | Switzerland |
 ... unlimited | | 96 | 8 |
 [Mozilla VPN](https://www.mozilla.org/en-US/products/vpn/) | [mozilla-vpn-client](https://github.com/mozilla-mobile/mozilla-vpn-client) | 60 | 5 | USA | Mozilla Foundation
+[mullvad.net](https://mullvad.net/en) | [mullvadvpn](https://github.com/mullvad/mullvadvpn-app) | 60 | 5 | Sweden | |
 
 note: provider location != server location. usually, you can choose the server location = jurisdiction
 
