@@ -8,8 +8,6 @@ provider | client | eur/year | eur/month | provider location | owner | TB/month
 --|--|--|--|--|--|--
 [privateinternetaccess.com](https://www.privateinternetaccess.com/buy-vpn-online) | [pia-foss](https://github.com/pia-foss/manual-connections) | 38 | 3.10 | USA | Kape | 2.5
 ... + dedicated IP | | 90 | 7.35
-... 3-year plan | | 24 | 1.80
-... 3-year plan <br> + dedicated IP | | 52 | 4.30
 [protonvpn.com](https://protonvpn.com/pricing/) | [ProtonVPN](https://github.com/ProtonVPN/linux-cli) | 60 | 5 | Switzerland |
 ... unlimited | | 96 | 8 |
 [Mozilla VPN](https://www.mozilla.org/en-US/products/vpn/) | [mozilla-vpn-client](https://github.com/mozilla-mobile/mozilla-vpn-client) | 60 | 5 | USA | Mozilla Foundation
