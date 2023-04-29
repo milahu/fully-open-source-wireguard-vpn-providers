@@ -6,7 +6,7 @@ actual "open-source" clients and providers for wireguard VPN
 
 provider | client | eur/year | eur/month | provider location | owner | TB/month
 --|--|--|--|--|--|--
-[privateinternetaccess.com](https://www.privateinternetaccess.com/buy-vpn-online) | [pia-foss](https://github.com/pia-foss/manual-connections) | 38 | 3.10 | USA | Kape | 2.5
+[privateinternetaccess.com](https://www.privateinternetaccess.com/buy-vpn-online) | [pia-foss](https://github.com/pia-foss/manual-connections) | 38 | 3.10 | USA | [Kape](#kape-technologies) | 2.5
 ... + dedicated IP | | 90 | 7.35
 [protonvpn.com](https://protonvpn.com/pricing/) | [ProtonVPN](https://github.com/ProtonVPN/linux-cli) | 60 | 5 | Switzerland |
 ... unlimited | | 96 | 8 |
@@ -72,11 +72,11 @@ open-source openVPN clients are easier to find, but wireguard has better perform
 
 provider | client | eur/year | eur/month | provider location | owner | TB/month
 --|--|--|--|--|--|--
-[expressvpn.com](https://www.expressvpn.com/) | [expressvpn](https://www.expressvpn.com/vpn-software/vpn-linux) + [open core](https://github.com/expressvpn/lightway-core) | 94 | 8 | British Virgin Islands | Kape
+[expressvpn.com](https://www.expressvpn.com/) | [expressvpn](https://www.expressvpn.com/vpn-software/vpn-linux) + [open core](https://github.com/expressvpn/lightway-core) | 94 | 8 | British Virgin Islands | [Kape](#kape-technologies)
 [nordvpn.com](https://nordvpn.com/pricing/deal-site/) | [nordvpn](https://nordvpn.com/download/linux/) | 60 | 5 | Panama
 ... 2-year plan | | 42 | 3.50 | |
 [surfshark.com](https://order.surfshark.com/) | [surfshark](https://surfshark.com/download/linux) | 48 | 4 | Netherlands
-[cyberghostvpn.com](https://www.cyberghostvpn.com/) | [cyberghost](https://www.cyberghostvpn.com/en_US/apps/linux-vpn) | | | Romania | Kape
+[cyberghostvpn.com](https://www.cyberghostvpn.com/) | [cyberghost](https://www.cyberghostvpn.com/en_US/apps/linux-vpn) | | | Romania | [Kape](#kape-technologies)
 ... 2-year plan | | 26.40 | 2.20 |
 
 ### expressvpn
