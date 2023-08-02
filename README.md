@@ -22,7 +22,19 @@ note: provider location != server location. usually, you can choose the server l
 
 https://github.com/jamesmcm/vopono
 
-- wireguard providers: Mullvad, AzireVPN, iVPN, PrivateInternetAccess, MozillaVPN
+- wireguard providers:
+   - AirVPN - OpenVPN, WireGuard - https://airvpn.org/
+   - AzireVPN - OpenVPN, WireGuard - https://www.azirevpn.com/
+   - iVPN - WireGuard, OpenVPN, IPSec - https://www.ivpn.net/
+   - MozillaVPN - WireGuard - https://www.mozilla.org/en-US/products/vpn
+   - Mullvad - OpenVPN, WireGuard - https://mullvad.net/
+   - PrivateInternetAccess (PIA) - OpenVPN, WireGuard - https://www.privateinternetaccess.com/
+   - ProtonVPN - WireGuard - https://protonvpn.com/
+   - ~~TigerVPN - https://tigervpn.com/~~ - end of service: 2022-07-15
+- OpenVPN providers:
+   - hidemyass (HMA) - OpenVPN - https://www.hidemyass.com/
+- other VPN protocol providers:
+   - NordVPN - closed-source protocol? - https://nordvpn.com/
 - https://github.com/jamesmcm/vopono/blob/master/vopono_core/src/config/providers
 
 ### PIA is slow
