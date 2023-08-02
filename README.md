@@ -8,7 +8,7 @@ provider | client | eur/year | eur/month | provider location | owner | TB/month
 --|--|--|--|--|--|--
 [privateinternetaccess.com](https://www.privateinternetaccess.com/buy-vpn-online) | [pia-foss](https://github.com/pia-foss/manual-connections) | 38 | 3.10 | USA | [Kape](#kape-technologies) | [2.5](#pia-is-slow)
 ... + dedicated IP | | 90 | 7.35
-[protonvpn.com](https://protonvpn.com/pricing/) | [ProtonVPN](https://github.com/ProtonVPN/linux-cli) | 60 | 5 | Switzerland |
+[protonvpn.com](https://protonvpn.com/pricing/) | [ProtonVPN](https://github.com/ProtonVPN/linux-cli) | 60 | 5 | Switzerland | Proton AG |
 ... unlimited | | 96 | 8 |
 [Mozilla VPN](https://www.mozilla.org/en-US/products/vpn/) | [mozilla-vpn-client](https://github.com/mozilla-mobile/mozilla-vpn-client) | 60 | 5 | USA | Mozilla Foundation
 [mullvad.net](https://mullvad.net/en) | [mullvadvpn](https://github.com/mullvad/mullvadvpn-app) | 60 | 5 | Sweden | |
@@ -85,9 +85,9 @@ open-source openVPN clients are easier to find, but wireguard has better perform
 
 provider | client | eur/year | eur/month | provider location | owner | TB/month
 --|--|--|--|--|--|--
-[nordvpn.com](https://nordvpn.com/pricing/deal-site/) | [nordvpn](https://nordvpn.com/download/linux/) (including NordLynx, a [closed-source fork of wireguard](https://www.allthingssecured.com/vpn/faq/lightway-vs-wireguard-vs-openvpn/)) | 60 | 5 | Panama
+[nordvpn.com](https://nordvpn.com/pricing/deal-site/) | [nordvpn](https://nordvpn.com/download/linux/) (including NordLynx, a [closed-source fork of wireguard](https://www.allthingssecured.com/vpn/faq/lightway-vs-wireguard-vs-openvpn/)) | 60 | 5 | Panama | Nord Security
 ... 2-year plan | | 42 | 3.50 | |
-[surfshark.com](https://order.surfshark.com/) | [surfshark](https://surfshark.com/download/linux) | 48 | 4 | Netherlands
+[surfshark.com](https://order.surfshark.com/) | [surfshark](https://surfshark.com/download/linux) | 48 | 4 | Netherlands | Nord Security
 [cyberghostvpn.com](https://www.cyberghostvpn.com/) | [cyberghost](https://www.cyberghostvpn.com/en_US/apps/linux-vpn) | | | Romania | [Kape](#kape-technologies)
 ... 2-year plan | | 26.40 | 2.20 |
 
