@@ -12,6 +12,7 @@ provider | client | eur/year | eur/month | provider location | owner | TB/month
 ... unlimited | | 96 | 8 |
 [Mozilla VPN](https://www.mozilla.org/en-US/products/vpn/) | [mozilla-vpn-client](https://github.com/mozilla-mobile/mozilla-vpn-client) | 60 | 5 | USA | Mozilla Foundation
 [mullvad.net](https://mullvad.net/en) | [mullvadvpn](https://github.com/mullvad/mullvadvpn-app) | 60 | 5 | Sweden | |
+[expressvpn.com](https://www.expressvpn.com/) | [lightway-laser](https://github.com/expressvpn/lightway-laser) based on [lightway-core](https://github.com/expressvpn/lightway-core) ([issue](https://github.com/expressvpn/lightway-core/issues/70)) (closed source: [expressvpn](https://www.expressvpn.com/vpn-software/vpn-linux)) ([lightway is not wireguard](https://www.allthingssecured.com/vpn/faq/lightway-vs-wireguard-vs-openvpn/)) | 94 | 8 | British Virgin Islands | [Kape](#kape-technologies) |
 
 note: provider location != server location. usually, you can choose the server location = jurisdiction
 
@@ -72,7 +73,6 @@ open-source openVPN clients are easier to find, but wireguard has better perform
 
 provider | client | eur/year | eur/month | provider location | owner | TB/month
 --|--|--|--|--|--|--
-[expressvpn.com](https://www.expressvpn.com/) | [expressvpn](https://www.expressvpn.com/vpn-software/vpn-linux) + [open core](https://github.com/expressvpn/lightway-core) | 94 | 8 | British Virgin Islands | [Kape](#kape-technologies)
 [nordvpn.com](https://nordvpn.com/pricing/deal-site/) | [nordvpn](https://nordvpn.com/download/linux/) | 60 | 5 | Panama
 ... 2-year plan | | 42 | 3.50 | |
 [surfshark.com](https://order.surfshark.com/) | [surfshark](https://surfshark.com/download/linux) | 48 | 4 | Netherlands
