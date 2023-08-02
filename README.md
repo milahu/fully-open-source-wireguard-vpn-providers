@@ -73,7 +73,7 @@ open-source openVPN clients are easier to find, but wireguard has better perform
 
 provider | client | eur/year | eur/month | provider location | owner | TB/month
 --|--|--|--|--|--|--
-[nordvpn.com](https://nordvpn.com/pricing/deal-site/) | [nordvpn](https://nordvpn.com/download/linux/) | 60 | 5 | Panama
+[nordvpn.com](https://nordvpn.com/pricing/deal-site/) | [nordvpn](https://nordvpn.com/download/linux/) (including NordLynx, a [closed-source fork of wireguard](https://www.allthingssecured.com/vpn/faq/lightway-vs-wireguard-vs-openvpn/)) | 60 | 5 | Panama
 ... 2-year plan | | 42 | 3.50 | |
 [surfshark.com](https://order.surfshark.com/) | [surfshark](https://surfshark.com/download/linux) | 48 | 4 | Netherlands
 [cyberghostvpn.com](https://www.cyberghostvpn.com/) | [cyberghost](https://www.cyberghostvpn.com/en_US/apps/linux-vpn) | | | Romania | [Kape](#kape-technologies)
