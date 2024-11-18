@@ -159,6 +159,23 @@ alternative to private server
 
 no root access
 
+### unlimited traffic
+
+- https://www.feralhosting.com/pricing UK
+  - Helium: 1 TB disk, unlimited traffic, 10 gbp/month, 20 Gbps link
+  - Neon: 1.5 TB disk, unlimited traffic, 15 gbp/month, 20 Gbps link
+  - Argon: 2 TB disk, unlimited traffic, 20 gbp/month, 20 Gbps link
+- https://www.rapidseedbox.com/#pricing NL/FR
+   - Fast: 1.2 TB disk, unlimited traffic, 18 eur/month, 1 Gbps link
+- https://xirvik.com/seedboxes/plan/29-shared-servers NL/UK/US (?)
+  - Feast: 0.5 TB disk, unlimited traffic, 13 usd/month, 2 Gbps link
+  - Ratio: 1 TB disk, unlimited traffic, 20 usd/month, 2 Gbps link
+- https://bigsb.net/plans/
+   - Baby Box 130: 0.130 TB disk, unlimited traffic, 12 eur/month, 0.1 Gbps link
+   - Baby Box 260: 0.260 TB disk, unlimited traffic, 18 eur/month, 0.1 Gbps link
+
+### limited traffic
+
 traffic is the main bottleneck, see [#traffic](#traffic)
 
 - https://duckduckgo.com/?q=vps+bittorrent+seedbox+providers+2022
@@ -183,27 +200,6 @@ traffic is the main bottleneck, see [#traffic](#traffic)
 - https://evoseedbox.com/
    - Speed: 0.300 TB disk, 4 TB traffic/month, 12 eur/month, 0.1 Gbps link
    - Blaze: 0.600 TB disk, 7 TB traffic/month, 18 eur/month, 0.1 Gbps link
-
-### unlimited traffic
-
-"unlimited" ... but these servers have other limits
-
-<details>
-
-- https://www.rapidseedbox.com/#pricing NL/FR
-   - Fast: 1.2 TB disk, unlimited traffic, 18 eur/month, 1 Gbps link
-- https://xirvik.com/seedboxes/plan/29-shared-servers NL/UK/US (?)
-  - Feast: 0.5 TB disk, unlimited traffic, 13 usd/month, 2 Gbps link
-  - Ratio: 1 TB disk, unlimited traffic, 20 usd/month, 2 Gbps link
-- https://www.feralhosting.com/pricing UK?
-  - Helium: 1 TB disk, unlimited traffic, 10 gbp/month, 20 Gbps link
-  - Neon: 1.5 TB disk, unlimited traffic, 15 gbp/month, 20 Gbps link
-  - Argon: 2 TB disk, unlimited traffic, 20 gbp/month, 20 Gbps link
-- https://bigsb.net/plans/
-   - Baby Box 130: 0.130 TB disk, unlimited traffic, 12 eur/month, 0.1 Gbps link
-   - Baby Box 260: 0.260 TB disk, unlimited traffic, 18 eur/month, 0.1 Gbps link
-
-</details>
 
 ### limitations
 
