@@ -121,6 +121,8 @@ https://github.com/Numenorean/ExpressVPN-Auth - looks like openVPN client, no wi
 
 https://restoreprivacy.com/kape-technologies-owns-expressvpn-cyberghost-pia-zenmate-vpn-review-sites/
 
+https://restoreprivacy.com/private-internet-access-kape-crossrider/
+
 - connections to Israel military (Israel intelligence agency, Unit 8200)
    - responsible for clandestine operation, collecting signal intelligence (SIGINT) and code decryption, counterintelligence, cyberwarfare, military intelligence, and surveillance ... Unit 8200 is probably the foremost technical intelligence agency in the world and stands on a par with the NSA in everything except scale https://en.wikipedia.org/wiki/Unit_8200
 - owner of VPN providers
